@@ -1,0 +1,26 @@
+{
+  "name": "multidimensional-array-search",
+  "version": "1.0.0",
+  "description": "Find an element if it exists in a collection of arrays within arrays.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdctenga/multidimensional-array-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdctenga/multidimensional-array-search/issues"
+  },
+  "homepage": "https://github.com/mdctenga/multidimensional-array-search"
+}
